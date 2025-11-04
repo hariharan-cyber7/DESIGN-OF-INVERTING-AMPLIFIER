@@ -39,9 +39,13 @@ Inverting amplifier:
 <img width="368" height="284" alt="image" src="https://github.com/user-attachments/assets/d2081f1e-57d1-4cd0-b59a-5ebb4115733d" />
 
 ## TABULATION:
+<img width="521" height="370" alt="image" src="https://github.com/user-attachments/assets/a8902bbe-d188-439a-a4d4-6016a5ff5521" />
 
+## CALCULATION:
+<img width="569" height="752" alt="Screenshot 2025-11-04 205533" src="https://github.com/user-attachments/assets/ce81365d-4f48-4cc5-ad99-b9eea1784c8a" />
 
 ## GRAPH:
+<img width="531" height="750" alt="image" src="https://github.com/user-attachments/assets/8cc8bbc4-bafc-4749-b096-22b81875642b" />
 
 
 ## RESULT:

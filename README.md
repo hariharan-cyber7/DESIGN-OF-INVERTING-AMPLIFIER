@@ -49,3 +49,4 @@ Inverting amplifier:
 
 
 ## RESULT:
+Thus, the inverting amplifier is designed and their performance was successfully tested using Op-Amp IC741
